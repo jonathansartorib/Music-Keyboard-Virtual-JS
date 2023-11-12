@@ -4,7 +4,7 @@
 <br/>
 
 
-   [CLIQUE AQUI PARA JOGAR!!](https://jonathansartorib.github.io/Music-Keyboard-Virtual-JS/)
+   [CLIQUE AQUI PARA TOCAR!!](https://jonathansartorib.github.io/Music-Keyboard-Virtual-JS/)
 
 <br/>
 <br/>
@@ -25,7 +25,7 @@
 2. Abra o arquivo `index.html` em seu navegador web.
 3. Use o mouse ou até mesmo as teclas para tocar.
 4. Divirta-se explorando e tocando.
-5. Ou, [CLIQUE AQUI PARA USAR!!](https://jonathansartorib.github.io/Music-Keyboard-Virtual-JS/)
+5. Ou, [CLIQUE AQUI PARA TOCAR!!](https://jonathansartorib.github.io/Music-Keyboard-Virtual-JS/)
 
 ### Contribuição
 
